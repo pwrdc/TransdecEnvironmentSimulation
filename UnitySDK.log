@@ -1,0 +1,39 @@
+13.02.2020 22:18:57
+ 
+Log
+Setup academy
+UnityEngine.Debug:Log(Object)
+RobotAcademy:SetupAcademy() (at D:/Github/robocik/Transdec_new/TransdecEnvironment/Assets/Scripts/RobotAcademy.cs:113)
+RobotAcademy:Start() (at D:/Github/robocik/Transdec_new/TransdecEnvironment/Assets/Scripts/RobotAcademy.cs:108)
+
+Log
+Is menu: False
+UnityEngine.Debug:Log(Object)
+RobotAcademy:SetupAcademy() (at D:/Github/robocik/Transdec_new/TransdecEnvironment/Assets/Scripts/RobotAcademy.cs:114)
+RobotAcademy:Start() (at D:/Github/robocik/Transdec_new/TransdecEnvironment/Assets/Scripts/RobotAcademy.cs:108)
+
+Error
+Could not find background images: Could not find a part of the path 'D:\Github\simulators\transdec_sim_SAUVC_python\TransdecEnvironment_Data\Resources\backgroundImages'.
+UnityEngine.Debug:LogError(Object)
+BackgroundImageManager:Start() (at D:/Github/robocik/Transdec_new/TransdecEnvironment/Assets/Scripts/BackgroundImageManager.cs:124)
+
+Log
+Setup academy
+UnityEngine.Debug:Log(Object)
+RobotAcademy:SetupAcademy() (at D:/Github/robocik/Transdec_new/TransdecEnvironment/Assets/Scripts/RobotAcademy.cs:113)
+RobotAcademy:AcademyReset() (at D:/Github/robocik/Transdec_new/TransdecEnvironment/Assets/Scripts/RobotAcademy.cs:137)
+MLAgents.Academy:EnvironmentReset() (at D:/Github/robocik/Transdec_new/TransdecEnvironment/Assets/ML-Agents/Scripts/Academy.cs:619)
+MLAgents.Academy:ForcedFullReset() (at D:/Github/robocik/Transdec_new/TransdecEnvironment/Assets/ML-Agents/Scripts/Academy.cs:535)
+MLAgents.Academy:EnvironmentStep() (at D:/Github/robocik/Transdec_new/TransdecEnvironment/Assets/ML-Agents/Scripts/Academy.cs:579)
+MLAgents.Academy:FixedUpdate() (at D:/Github/robocik/Transdec_new/TransdecEnvironment/Assets/ML-Agents/Scripts/Academy.cs:627)
+
+Log
+Is menu: False
+UnityEngine.Debug:Log(Object)
+RobotAcademy:SetupAcademy() (at D:/Github/robocik/Transdec_new/TransdecEnvironment/Assets/Scripts/RobotAcademy.cs:114)
+RobotAcademy:AcademyReset() (at D:/Github/robocik/Transdec_new/TransdecEnvironment/Assets/Scripts/RobotAcademy.cs:137)
+MLAgents.Academy:EnvironmentReset() (at D:/Github/robocik/Transdec_new/TransdecEnvironment/Assets/ML-Agents/Scripts/Academy.cs:619)
+MLAgents.Academy:ForcedFullReset() (at D:/Github/robocik/Transdec_new/TransdecEnvironment/Assets/ML-Agents/Scripts/Academy.cs:535)
+MLAgents.Academy:EnvironmentStep() (at D:/Github/robocik/Transdec_new/TransdecEnvironment/Assets/ML-Agents/Scripts/Academy.cs:579)
+MLAgents.Academy:FixedUpdate() (at D:/Github/robocik/Transdec_new/TransdecEnvironment/Assets/ML-Agents/Scripts/Academy.cs:627)
+
